@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace GDWeave.Sample;
+namespace Noffio.BadlyVoicedFishing;
 
 public class Config {
     [JsonInclude] public bool SomeSetting = true;

@@ -1,0 +1,10 @@
+{
+  "Id": "Noffio.BadlyVoicedFishing",
+  "AssemblyPath": "Noffio.BadlyVoicedFishing.dll",
+  "Metadata": {
+    "Name": "BadlyVoicedFishing",
+    "Author": "Noffio",
+    "Version": "1.0.0",
+    "Description": "A WEBFISHING mod that replaces all of the ingame SFX with my voice."
+  }
+}
