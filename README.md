@@ -1,6 +1,7 @@
-# GDWeave.Sample
+# BadlyVociedFishing
 
-A sample for C# [GDWeave](https://github.com/NotNite/GDWeave) mods.
+A mod for WEBFISHING that replaces most of the game's SFX with my voice.
+(i skipped some so loading this mod doesn't immediately make you go insane)
 
 ## Setup
 
