@@ -1,6 +1,6 @@
 ﻿using GDWeave;
 
-namespace GDWeave.Sample;
+namespace Noffio.BadlyVoicedFishing;
 
 public class Mod : IMod {
     public Config Config;
